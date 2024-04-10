@@ -17,7 +17,7 @@ code {
 }
 
 .app-container {
-  width: 1350px;
+  width: 1100px;
   margin: 25px auto;
   min-height: calc(100vh - 200px);
 }
